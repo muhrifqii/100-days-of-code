@@ -22,3 +22,23 @@
 
 **Link(s) to work**
 1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+
+### Day 2: January 5th, 2017 (Thursday)
+
+**Today's Progress**: Continue on the first #100daysofcode project. Now this project will support kotlin programming language. Add more RxBinding sample and use another RxJava library, RxLifecycle by [trello](https://github.com/trello). It has already supported the new RxJava2, and I use both in this project to see the sample.
+
+**Toughts** When facing an error like this:
+
+`` Error:Execution failed for task ':app:prepareDebugAndroidTestDependencies'. 
+> Dependency Error. See console for details. ``
+
+Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce this error when adding rxlifecycle v1.0
+
+**Useful resources**
+1. [RxLifecycle](https://github.com/trello/RxLifecycle)
+2. [Introduction kotlin programming language for android](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-part-1-e0f51fc1a8b3)
+3. [Various kotlin examples](https://github.com/JetBrains/kotlin-examples)
+
+**Link(s) to work**
+1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+2. [Todays Commit]()

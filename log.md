@@ -42,3 +42,12 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 **Link(s) to work**
 1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
 2. [Todays Commit]()
+
+### Day 3: January 6th, 2017 (Friday)
+
+**Today's Progress**: Learn one of many powerfull ASR (Automatic Speech Recognition) toolkit, [kaldi](http://kaldi-asr.org) instead of adding more samples in the first project [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample).
+
+**Toughts** Understanding speech recognition task is relatively hard.
+
+**Useful resources**
+1. [Easy-to-follow Kaldi Tutorial](http://pages.jh.edu/~echodro1/tutorial/kaldi/kaldi-intro.html)

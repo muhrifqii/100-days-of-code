@@ -51,3 +51,13 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Useful resources**
 1. [Easy-to-follow Kaldi Tutorial](http://pages.jh.edu/~echodro1/tutorial/kaldi/kaldi-intro.html)
+
+### Day 4: January 7th, 2017 (Saturday)
+
+**Today's Progress**: Try to learn some basic of microservices. Not much code written today, mostly reading and minor update on the first project. Also reading the flask documentation.
+
+**Toughts** Web is a new thing to me. I have done a simple play framework project with scala language programming but mostly no time to continue learning web. Why flask? Because it is written with python which is the datascience powerfull language that I am trying to learn too.
+
+**Useful resources**
+1. [Example of microservices written using flask](https://github.com/umermansoor/microservices)
+2. [First article I read about microservice](http://microservices.io/patterns/microservices.html)

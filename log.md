@@ -61,3 +61,12 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 **Useful resources**
 1. [Example of microservices written using flask](https://github.com/umermansoor/microservices)
 2. [First article I read about microservice](http://microservices.io/patterns/microservices.html)
+
+### Day 5: January 8th, 2017 (Sunday)
+
+**Today's Progress**: Continue writing the first project. Also Writing a story on medium.
+
+**Toughts** I need to challenge my self writting a story after 5 days of coding to improvise my writing skill.
+
+**Link(s) to work**
+1. [Type without moving the hands away from keyboard](https://medium.com/@muhrifqii/give-it-a-chance-to-your-brain-type-without-moving-the-hands-away-from-keyboard-7790c7600c60#.4k6g3fcme)

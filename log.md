@@ -70,3 +70,12 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Link(s) to work**
 1. [Type without moving the hands away from keyboard](https://medium.com/@muhrifqii/give-it-a-chance-to-your-brain-type-without-moving-the-hands-away-from-keyboard-7790c7600c60#.4k6g3fcme)
+
+### Day 6: January 9th, 2017 (Monday)
+
+**Today's Progress**: Fixed some layout, and implements the delegate callback method
+
+**Toughts** More familiar with delegate implementation in java
+
+**Link(s) to work**
+1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)

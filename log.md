@@ -79,3 +79,13 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Link(s) to work**
 1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+
+### Day 7: January 10th, 2017 (Tuesday)
+
+**Toda's Progress**: Continue on first project. Adding kotlin to sample codes.
+
+**Toughts** Coding while watching movies is not efficient and can not concentrate. So don't do that!
+
+**Link(s) to work**
+1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+

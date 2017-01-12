@@ -98,3 +98,11 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 **Link(s) to work**
 1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
 
+### Day 9: January 12th, 2017 (Thursday)
+
+**Today's Progress**: Add rxbinding checkedchange event sample with a real problem.
+
+**Toughts**: Need 2 hours to solve a basic string problem. Need more practice in algorithm and programming.
+
+**Link(s) to work**
+1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)

@@ -106,3 +106,14 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Link(s) to work**
 1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+
+### Day 10: January 13th, 2017 (Friday)
+
+**Today's Progress**: Add a little fix in the first project, still in the same class. And writting a story on medium.
+
+**Toughts**: The 2nd story I wrote on medium. Need a lot more practice on writing.
+
+**Link(s) to work**
+1. [ReactiveLibrarySample](https://github.com/muhrifqii/ReactiveLibrarySample)
+2. [Android: The Use of Interface and Abstract Class]()
+

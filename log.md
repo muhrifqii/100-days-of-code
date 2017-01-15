@@ -125,3 +125,12 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Link(s) to work**
 1. [Tmux and Vim Configuration](https://github.com/muhrifqii/tmux-vim-config)
+
+### Day 12: January 15th, 2017 (Sunday)
+
+**Today's Progress**: Opened a pull request on android library, named Compressor. Add support for kotlin features.
+
+**Toughts**: First time contributing on android library
+
+**Link(s) to work**
+1. [Compressor Kotlin Feature](https://github.com/muhrifqii/Compressor)

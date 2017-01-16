@@ -134,3 +134,12 @@ Exclude 'com.google.code.findbugs' in your androidTestCompile. I can reproduce t
 
 **Link(s) to work**
 1. [Compressor Kotlin Feature](https://github.com/muhrifqii/Compressor)
+
+### Day 13: January 16th, 2017 (Monday)
+
+**Today's Progress**: Learn more mvvm by reading sample code and practice it.
+
+**Toughts**: Still taking so long to learn something new
+
+**Link(s) to work**
+private project
